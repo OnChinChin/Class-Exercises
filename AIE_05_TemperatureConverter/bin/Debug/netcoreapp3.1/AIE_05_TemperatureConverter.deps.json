@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AIE_05_TemperatureConverter/1.0.0": {
+        "runtime": {
+          "AIE_05_TemperatureConverter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AIE_05_TemperatureConverter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
