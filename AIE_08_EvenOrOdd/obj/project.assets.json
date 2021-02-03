@@ -8,19 +8,27 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\s210537\\.nuget\\packages\\": {}
+    "C:\\Users\\HOMES\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\s210537\\Documents\\ClassExercises\\Class-Exercises\\AIE_08_EvenOrOdd\\AIE_08_EvenOrOdd.csproj",
       "projectName": "AIE_08_EvenOrOdd",
       "projectPath": "C:\\Users\\s210537\\Documents\\ClassExercises\\Class-Exercises\\AIE_08_EvenOrOdd\\AIE_08_EvenOrOdd.csproj",
       "packagesPath": "C:\\Users\\s210537\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\s210537\\Documents\\ClassExercises\\Class-Exercises\\AIE_08_EvenOrOdd\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\HOMES\\OneDrive\\Desktop\\Class Exer\\Class-Exercises\\AIE_08_EvenOrOdd\\AIE_08_EvenOrOdd.csproj",
+      "projectName": "AIE_08_EvenOrOdd",
+      "projectPath": "C:\\Users\\HOMES\\OneDrive\\Desktop\\Class Exer\\Class-Exercises\\AIE_08_EvenOrOdd\\AIE_08_EvenOrOdd.csproj",
+      "packagesPath": "C:\\Users\\HOMES\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\HOMES\\OneDrive\\Desktop\\Class Exer\\Class-Exercises\\AIE_08_EvenOrOdd\\obj\\",
+>>>>>>> e515a7f3496349ec0a41bb6d55b8d5eed4071a07
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\s210537\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\HOMES\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -32,6 +40,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -43,6 +52,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -58,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

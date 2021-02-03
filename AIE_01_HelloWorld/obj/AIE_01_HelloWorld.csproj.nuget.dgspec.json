@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\s210537\\Documents\\ClassExercises\\Class-Exercises\\AIE_01_HelloWorld\\AIE_01_HelloWorld.csproj": {}
   },
   "projects": {
@@ -12,9 +13,22 @@
         "projectPath": "C:\\Users\\s210537\\Documents\\ClassExercises\\Class-Exercises\\AIE_01_HelloWorld\\AIE_01_HelloWorld.csproj",
         "packagesPath": "C:\\Users\\s210537\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\s210537\\Documents\\ClassExercises\\Class-Exercises\\AIE_01_HelloWorld\\obj\\",
+=======
+    "C:\\Users\\HOMES\\OneDrive\\Desktop\\Class Exer\\Class-Exercises\\AIE_01_HelloWorld\\AIE_01_HelloWorld.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\HOMES\\OneDrive\\Desktop\\Class Exer\\Class-Exercises\\AIE_01_HelloWorld\\AIE_01_HelloWorld.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HOMES\\OneDrive\\Desktop\\Class Exer\\Class-Exercises\\AIE_01_HelloWorld\\AIE_01_HelloWorld.csproj",
+        "projectName": "AIE_01_HelloWorld",
+        "projectPath": "C:\\Users\\HOMES\\OneDrive\\Desktop\\Class Exer\\Class-Exercises\\AIE_01_HelloWorld\\AIE_01_HelloWorld.csproj",
+        "packagesPath": "C:\\Users\\HOMES\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HOMES\\OneDrive\\Desktop\\Class Exer\\Class-Exercises\\AIE_01_HelloWorld\\obj\\",
+>>>>>>> e515a7f3496349ec0a41bb6d55b8d5eed4071a07
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\s210537\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HOMES\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +40,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +52,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -52,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
