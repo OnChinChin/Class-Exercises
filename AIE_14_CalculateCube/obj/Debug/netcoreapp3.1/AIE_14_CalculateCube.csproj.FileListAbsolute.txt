@@ -1,0 +1,11 @@
+C:\Users\s210537\Documents\ClassExercises\Class-Exercises\AIE_14_CalculateCube\obj\Debug\netcoreapp3.1\AIE_14_CalculateCube.AssemblyInfoInputs.cache
+C:\Users\s210537\Documents\ClassExercises\Class-Exercises\AIE_14_CalculateCube\obj\Debug\netcoreapp3.1\AIE_14_CalculateCube.AssemblyInfo.cs
+C:\Users\s210537\Documents\ClassExercises\Class-Exercises\AIE_14_CalculateCube\bin\Debug\netcoreapp3.1\AIE_14_CalculateCube.exe
+C:\Users\s210537\Documents\ClassExercises\Class-Exercises\AIE_14_CalculateCube\bin\Debug\netcoreapp3.1\AIE_14_CalculateCube.deps.json
+C:\Users\s210537\Documents\ClassExercises\Class-Exercises\AIE_14_CalculateCube\bin\Debug\netcoreapp3.1\AIE_14_CalculateCube.runtimeconfig.json
+C:\Users\s210537\Documents\ClassExercises\Class-Exercises\AIE_14_CalculateCube\bin\Debug\netcoreapp3.1\AIE_14_CalculateCube.runtimeconfig.dev.json
+C:\Users\s210537\Documents\ClassExercises\Class-Exercises\AIE_14_CalculateCube\bin\Debug\netcoreapp3.1\AIE_14_CalculateCube.dll
+C:\Users\s210537\Documents\ClassExercises\Class-Exercises\AIE_14_CalculateCube\bin\Debug\netcoreapp3.1\AIE_14_CalculateCube.pdb
+C:\Users\s210537\Documents\ClassExercises\Class-Exercises\AIE_14_CalculateCube\obj\Debug\netcoreapp3.1\AIE_14_CalculateCube.dll
+C:\Users\s210537\Documents\ClassExercises\Class-Exercises\AIE_14_CalculateCube\obj\Debug\netcoreapp3.1\AIE_14_CalculateCube.pdb
+C:\Users\s210537\Documents\ClassExercises\Class-Exercises\AIE_14_CalculateCube\obj\Debug\netcoreapp3.1\AIE_14_CalculateCube.csprojAssemblyReference.cache

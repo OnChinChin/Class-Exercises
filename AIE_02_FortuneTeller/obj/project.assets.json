@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\s210537\\Documents\\ClassExercises\\AIE_02_FortuneTeller\\AIE_02_FortuneTeller.csproj",
+      "projectUniqueName": "C:\\Users\\s210537\\Documents\\ClassExercises\\Class-Exercises\\AIE_02_FortuneTeller\\AIE_02_FortuneTeller.csproj",
       "projectName": "AIE_02_FortuneTeller",
-      "projectPath": "C:\\Users\\s210537\\Documents\\ClassExercises\\AIE_02_FortuneTeller\\AIE_02_FortuneTeller.csproj",
+      "projectPath": "C:\\Users\\s210537\\Documents\\ClassExercises\\Class-Exercises\\AIE_02_FortuneTeller\\AIE_02_FortuneTeller.csproj",
       "packagesPath": "C:\\Users\\s210537\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s210537\\Documents\\ClassExercises\\AIE_02_FortuneTeller\\obj\\",
+      "outputPath": "C:\\Users\\s210537\\Documents\\ClassExercises\\Class-Exercises\\AIE_02_FortuneTeller\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\s210537\\AppData\\Roaming\\NuGet\\NuGet.Config",
