@@ -15,3 +15,13 @@ C:\Users\s210537\Documents\ClassExercises\Class-Exercises\AIE_01_HelloWorld\obj\
 C:\Users\s210537\Documents\ClassExercises\Class-Exercises\AIE_01_HelloWorld\obj\Debug\netcoreapp3.1\AIE_01_HelloWorld.AssemblyInfo.cs
 C:\Users\s210537\Documents\ClassExercises\Class-Exercises\AIE_01_HelloWorld\obj\Debug\netcoreapp3.1\AIE_01_HelloWorld.dll
 C:\Users\s210537\Documents\ClassExercises\Class-Exercises\AIE_01_HelloWorld\obj\Debug\netcoreapp3.1\AIE_01_HelloWorld.pdb
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_01_HelloWorld\bin\Debug\netcoreapp3.1\AIE_01_HelloWorld.exe
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_01_HelloWorld\bin\Debug\netcoreapp3.1\AIE_01_HelloWorld.deps.json
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_01_HelloWorld\bin\Debug\netcoreapp3.1\AIE_01_HelloWorld.runtimeconfig.json
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_01_HelloWorld\bin\Debug\netcoreapp3.1\AIE_01_HelloWorld.runtimeconfig.dev.json
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_01_HelloWorld\bin\Debug\netcoreapp3.1\AIE_01_HelloWorld.dll
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_01_HelloWorld\bin\Debug\netcoreapp3.1\AIE_01_HelloWorld.pdb
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_01_HelloWorld\obj\Debug\netcoreapp3.1\AIE_01_HelloWorld.AssemblyInfoInputs.cache
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_01_HelloWorld\obj\Debug\netcoreapp3.1\AIE_01_HelloWorld.AssemblyInfo.cs
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_01_HelloWorld\obj\Debug\netcoreapp3.1\AIE_01_HelloWorld.dll
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_01_HelloWorld\obj\Debug\netcoreapp3.1\AIE_01_HelloWorld.pdb

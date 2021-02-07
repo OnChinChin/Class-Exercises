@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\s210537\\Documents\\ClassExercises\\Class-Exercises\\AIE_15_IsAVowel\\AIE_15_IsAVowel.csproj",
+      "projectUniqueName": "C:\\Users\\s210537\\Desktop\\Git Class\\Class-Exercises\\AIE_15_IsAVowel\\AIE_15_IsAVowel.csproj",
       "projectName": "AIE_15_IsAVowel",
-      "projectPath": "C:\\Users\\s210537\\Documents\\ClassExercises\\Class-Exercises\\AIE_15_IsAVowel\\AIE_15_IsAVowel.csproj",
+      "projectPath": "C:\\Users\\s210537\\Desktop\\Git Class\\Class-Exercises\\AIE_15_IsAVowel\\AIE_15_IsAVowel.csproj",
       "packagesPath": "C:\\Users\\s210537\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s210537\\Documents\\ClassExercises\\Class-Exercises\\AIE_15_IsAVowel\\obj\\",
+      "outputPath": "C:\\Users\\s210537\\Desktop\\Git Class\\Class-Exercises\\AIE_15_IsAVowel\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\s210537\\AppData\\Roaming\\NuGet\\NuGet.Config",

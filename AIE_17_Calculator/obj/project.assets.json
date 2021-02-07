@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\s210537\\Documents\\ClassExercises\\Class-Exercises\\AIE_17_Calculator\\AIE_17_Calculator.csproj",
+      "projectUniqueName": "C:\\Users\\s210537\\Desktop\\Git Class\\Class-Exercises\\AIE_17_Calculator\\AIE_17_Calculator.csproj",
       "projectName": "AIE_17_Calculator",
-      "projectPath": "C:\\Users\\s210537\\Documents\\ClassExercises\\Class-Exercises\\AIE_17_Calculator\\AIE_17_Calculator.csproj",
+      "projectPath": "C:\\Users\\s210537\\Desktop\\Git Class\\Class-Exercises\\AIE_17_Calculator\\AIE_17_Calculator.csproj",
       "packagesPath": "C:\\Users\\s210537\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s210537\\Documents\\ClassExercises\\Class-Exercises\\AIE_17_Calculator\\obj\\",
+      "outputPath": "C:\\Users\\s210537\\Desktop\\Git Class\\Class-Exercises\\AIE_17_Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\s210537\\AppData\\Roaming\\NuGet\\NuGet.Config",

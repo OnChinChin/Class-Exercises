@@ -9,3 +9,14 @@ C:\Users\s210537\Documents\ClassExercises\AIE_04_CircleCalculator\bin\Debug\netc
 C:\Users\s210537\Documents\ClassExercises\AIE_04_CircleCalculator\bin\Debug\netcoreapp3.1\AIE_04_CircleCalculator.pdb
 C:\Users\s210537\Documents\ClassExercises\AIE_04_CircleCalculator\obj\Debug\netcoreapp3.1\AIE_04_CircleCalculator.dll
 C:\Users\s210537\Documents\ClassExercises\AIE_04_CircleCalculator\obj\Debug\netcoreapp3.1\AIE_04_CircleCalculator.pdb
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_04_CircleCalculator\bin\Debug\netcoreapp3.1\AIE_04_CircleCalculator.exe
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_04_CircleCalculator\bin\Debug\netcoreapp3.1\AIE_04_CircleCalculator.deps.json
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_04_CircleCalculator\bin\Debug\netcoreapp3.1\AIE_04_CircleCalculator.runtimeconfig.json
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_04_CircleCalculator\bin\Debug\netcoreapp3.1\AIE_04_CircleCalculator.runtimeconfig.dev.json
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_04_CircleCalculator\bin\Debug\netcoreapp3.1\AIE_04_CircleCalculator.dll
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_04_CircleCalculator\bin\Debug\netcoreapp3.1\AIE_04_CircleCalculator.pdb
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_04_CircleCalculator\obj\Debug\netcoreapp3.1\AIE_04_CircleCalculator.csprojAssemblyReference.cache
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_04_CircleCalculator\obj\Debug\netcoreapp3.1\AIE_04_CircleCalculator.AssemblyInfoInputs.cache
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_04_CircleCalculator\obj\Debug\netcoreapp3.1\AIE_04_CircleCalculator.AssemblyInfo.cs
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_04_CircleCalculator\obj\Debug\netcoreapp3.1\AIE_04_CircleCalculator.dll
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_04_CircleCalculator\obj\Debug\netcoreapp3.1\AIE_04_CircleCalculator.pdb

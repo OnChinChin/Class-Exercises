@@ -8,3 +8,13 @@ C:\Users\s210537\Documents\ClassExercises\Class-Exercises\AIE_16_MaxOfThree\obj\
 C:\Users\s210537\Documents\ClassExercises\Class-Exercises\AIE_16_MaxOfThree\obj\Debug\netcoreapp3.1\AIE_16_MaxOfThree.AssemblyInfo.cs
 C:\Users\s210537\Documents\ClassExercises\Class-Exercises\AIE_16_MaxOfThree\obj\Debug\netcoreapp3.1\AIE_16_MaxOfThree.dll
 C:\Users\s210537\Documents\ClassExercises\Class-Exercises\AIE_16_MaxOfThree\obj\Debug\netcoreapp3.1\AIE_16_MaxOfThree.pdb
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_16_MaxOfThree\bin\Debug\netcoreapp3.1\AIE_16_MaxOfThree.exe
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_16_MaxOfThree\bin\Debug\netcoreapp3.1\AIE_16_MaxOfThree.deps.json
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_16_MaxOfThree\bin\Debug\netcoreapp3.1\AIE_16_MaxOfThree.runtimeconfig.json
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_16_MaxOfThree\bin\Debug\netcoreapp3.1\AIE_16_MaxOfThree.runtimeconfig.dev.json
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_16_MaxOfThree\bin\Debug\netcoreapp3.1\AIE_16_MaxOfThree.dll
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_16_MaxOfThree\bin\Debug\netcoreapp3.1\AIE_16_MaxOfThree.pdb
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_16_MaxOfThree\obj\Debug\netcoreapp3.1\AIE_16_MaxOfThree.AssemblyInfoInputs.cache
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_16_MaxOfThree\obj\Debug\netcoreapp3.1\AIE_16_MaxOfThree.AssemblyInfo.cs
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_16_MaxOfThree\obj\Debug\netcoreapp3.1\AIE_16_MaxOfThree.dll
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_16_MaxOfThree\obj\Debug\netcoreapp3.1\AIE_16_MaxOfThree.pdb

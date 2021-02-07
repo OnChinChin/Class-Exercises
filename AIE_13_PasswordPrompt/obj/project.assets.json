@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\s210537\\Documents\\ClassExercises\\Class-Exercises\\AIE_13_PasswordPrompt\\AIE_13_PasswordPrompt.csproj",
+      "projectUniqueName": "C:\\Users\\s210537\\Desktop\\Git Class\\Class-Exercises\\AIE_13_PasswordPrompt\\AIE_13_PasswordPrompt.csproj",
       "projectName": "AIE_13_PasswordPrompt",
-      "projectPath": "C:\\Users\\s210537\\Documents\\ClassExercises\\Class-Exercises\\AIE_13_PasswordPrompt\\AIE_13_PasswordPrompt.csproj",
+      "projectPath": "C:\\Users\\s210537\\Desktop\\Git Class\\Class-Exercises\\AIE_13_PasswordPrompt\\AIE_13_PasswordPrompt.csproj",
       "packagesPath": "C:\\Users\\s210537\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s210537\\Documents\\ClassExercises\\Class-Exercises\\AIE_13_PasswordPrompt\\obj\\",
+      "outputPath": "C:\\Users\\s210537\\Desktop\\Git Class\\Class-Exercises\\AIE_13_PasswordPrompt\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\s210537\\AppData\\Roaming\\NuGet\\NuGet.Config",

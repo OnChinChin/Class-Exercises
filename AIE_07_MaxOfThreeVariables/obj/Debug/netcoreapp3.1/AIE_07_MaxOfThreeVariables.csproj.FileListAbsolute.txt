@@ -28,3 +28,13 @@ C:\Users\s210537\Documents\ClassExercises\Class-Exercises\AIE_07_MaxOfThreeVaria
 C:\Users\s210537\Documents\ClassExercises\Class-Exercises\AIE_07_MaxOfThreeVariables\obj\Debug\netcoreapp3.1\AIE_07_MaxOfThreeVariables.AssemblyInfo.cs
 C:\Users\s210537\Documents\ClassExercises\Class-Exercises\AIE_07_MaxOfThreeVariables\obj\Debug\netcoreapp3.1\AIE_07_MaxOfThreeVariables.dll
 C:\Users\s210537\Documents\ClassExercises\Class-Exercises\AIE_07_MaxOfThreeVariables\obj\Debug\netcoreapp3.1\AIE_07_MaxOfThreeVariables.pdb
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_07_MaxOfThreeVariables\bin\Debug\netcoreapp3.1\AIE_07_MaxOfThreeVariables.exe
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_07_MaxOfThreeVariables\bin\Debug\netcoreapp3.1\AIE_07_MaxOfThreeVariables.deps.json
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_07_MaxOfThreeVariables\bin\Debug\netcoreapp3.1\AIE_07_MaxOfThreeVariables.runtimeconfig.json
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_07_MaxOfThreeVariables\bin\Debug\netcoreapp3.1\AIE_07_MaxOfThreeVariables.runtimeconfig.dev.json
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_07_MaxOfThreeVariables\bin\Debug\netcoreapp3.1\AIE_07_MaxOfThreeVariables.dll
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_07_MaxOfThreeVariables\bin\Debug\netcoreapp3.1\AIE_07_MaxOfThreeVariables.pdb
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_07_MaxOfThreeVariables\obj\Debug\netcoreapp3.1\AIE_07_MaxOfThreeVariables.AssemblyInfoInputs.cache
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_07_MaxOfThreeVariables\obj\Debug\netcoreapp3.1\AIE_07_MaxOfThreeVariables.AssemblyInfo.cs
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_07_MaxOfThreeVariables\obj\Debug\netcoreapp3.1\AIE_07_MaxOfThreeVariables.dll
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_07_MaxOfThreeVariables\obj\Debug\netcoreapp3.1\AIE_07_MaxOfThreeVariables.pdb

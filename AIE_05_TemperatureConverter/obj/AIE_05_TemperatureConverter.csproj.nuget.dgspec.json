@@ -1,34 +1,20 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "C:\\Users\\s210537\\Documents\\ClassExercises\\Class-Exercises\\AIE_05_TemperatureConverter\\AIE_05_TemperatureConverter.csproj": {}
+    "C:\\Users\\s210537\\Desktop\\Git Class\\Class-Exercises\\AIE_05_TemperatureConverter\\AIE_05_TemperatureConverter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s210537\\Documents\\ClassExercises\\Class-Exercises\\AIE_05_TemperatureConverter\\AIE_05_TemperatureConverter.csproj": {
+    "C:\\Users\\s210537\\Desktop\\Git Class\\Class-Exercises\\AIE_05_TemperatureConverter\\AIE_05_TemperatureConverter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s210537\\Documents\\ClassExercises\\Class-Exercises\\AIE_05_TemperatureConverter\\AIE_05_TemperatureConverter.csproj",
+        "projectUniqueName": "C:\\Users\\s210537\\Desktop\\Git Class\\Class-Exercises\\AIE_05_TemperatureConverter\\AIE_05_TemperatureConverter.csproj",
         "projectName": "AIE_05_TemperatureConverter",
-        "projectPath": "C:\\Users\\s210537\\Documents\\ClassExercises\\Class-Exercises\\AIE_05_TemperatureConverter\\AIE_05_TemperatureConverter.csproj",
+        "projectPath": "C:\\Users\\s210537\\Desktop\\Git Class\\Class-Exercises\\AIE_05_TemperatureConverter\\AIE_05_TemperatureConverter.csproj",
         "packagesPath": "C:\\Users\\s210537\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s210537\\Documents\\ClassExercises\\Class-Exercises\\AIE_05_TemperatureConverter\\obj\\",
-=======
-    "C:\\Users\\HOMES\\OneDrive\\Desktop\\Class Exer\\Class-Exercises\\AIE_05_TemperatureConverter\\AIE_05_TemperatureConverter.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\HOMES\\OneDrive\\Desktop\\Class Exer\\Class-Exercises\\AIE_05_TemperatureConverter\\AIE_05_TemperatureConverter.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\HOMES\\OneDrive\\Desktop\\Class Exer\\Class-Exercises\\AIE_05_TemperatureConverter\\AIE_05_TemperatureConverter.csproj",
-        "projectName": "AIE_05_TemperatureConverter",
-        "projectPath": "C:\\Users\\HOMES\\OneDrive\\Desktop\\Class Exer\\Class-Exercises\\AIE_05_TemperatureConverter\\AIE_05_TemperatureConverter.csproj",
-        "packagesPath": "C:\\Users\\HOMES\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HOMES\\OneDrive\\Desktop\\Class Exer\\Class-Exercises\\AIE_05_TemperatureConverter\\obj\\",
->>>>>>> e515a7f3496349ec0a41bb6d55b8d5eed4071a07
+        "outputPath": "C:\\Users\\s210537\\Desktop\\Git Class\\Class-Exercises\\AIE_05_TemperatureConverter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HOMES\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\s210537\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -40,7 +26,6 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -52,7 +37,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -68,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -8,3 +8,13 @@ C:\Users\s210537\Documents\ClassExercises\Class-Exercises\AIE_12_AllTimesTables\
 C:\Users\s210537\Documents\ClassExercises\Class-Exercises\AIE_12_AllTimesTables\obj\Debug\netcoreapp3.1\AIE_12_AllTimesTables.AssemblyInfo.cs
 C:\Users\s210537\Documents\ClassExercises\Class-Exercises\AIE_12_AllTimesTables\obj\Debug\netcoreapp3.1\AIE_12_AllTimesTables.dll
 C:\Users\s210537\Documents\ClassExercises\Class-Exercises\AIE_12_AllTimesTables\obj\Debug\netcoreapp3.1\AIE_12_AllTimesTables.pdb
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_12_AllTimesTables\bin\Debug\netcoreapp3.1\AIE_12_AllTimesTables.exe
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_12_AllTimesTables\bin\Debug\netcoreapp3.1\AIE_12_AllTimesTables.deps.json
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_12_AllTimesTables\bin\Debug\netcoreapp3.1\AIE_12_AllTimesTables.runtimeconfig.json
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_12_AllTimesTables\bin\Debug\netcoreapp3.1\AIE_12_AllTimesTables.runtimeconfig.dev.json
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_12_AllTimesTables\bin\Debug\netcoreapp3.1\AIE_12_AllTimesTables.dll
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_12_AllTimesTables\bin\Debug\netcoreapp3.1\AIE_12_AllTimesTables.pdb
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_12_AllTimesTables\obj\Debug\netcoreapp3.1\AIE_12_AllTimesTables.AssemblyInfoInputs.cache
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_12_AllTimesTables\obj\Debug\netcoreapp3.1\AIE_12_AllTimesTables.AssemblyInfo.cs
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_12_AllTimesTables\obj\Debug\netcoreapp3.1\AIE_12_AllTimesTables.dll
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_12_AllTimesTables\obj\Debug\netcoreapp3.1\AIE_12_AllTimesTables.pdb

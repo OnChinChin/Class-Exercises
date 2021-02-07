@@ -8,3 +8,13 @@ C:\Users\s210537\Documents\ClassExercises\Class-Exercises\AIE_11_NineTimesNine\o
 C:\Users\s210537\Documents\ClassExercises\Class-Exercises\AIE_11_NineTimesNine\obj\Debug\netcoreapp3.1\AIE_11_NineTimesNine.AssemblyInfo.cs
 C:\Users\s210537\Documents\ClassExercises\Class-Exercises\AIE_11_NineTimesNine\obj\Debug\netcoreapp3.1\AIE_11_NineTimesNine.dll
 C:\Users\s210537\Documents\ClassExercises\Class-Exercises\AIE_11_NineTimesNine\obj\Debug\netcoreapp3.1\AIE_11_NineTimesNine.pdb
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_11_NineTimesNine\bin\Debug\netcoreapp3.1\AIE_11_NineTimesNine.exe
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_11_NineTimesNine\bin\Debug\netcoreapp3.1\AIE_11_NineTimesNine.deps.json
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_11_NineTimesNine\bin\Debug\netcoreapp3.1\AIE_11_NineTimesNine.runtimeconfig.json
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_11_NineTimesNine\bin\Debug\netcoreapp3.1\AIE_11_NineTimesNine.runtimeconfig.dev.json
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_11_NineTimesNine\bin\Debug\netcoreapp3.1\AIE_11_NineTimesNine.dll
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_11_NineTimesNine\bin\Debug\netcoreapp3.1\AIE_11_NineTimesNine.pdb
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_11_NineTimesNine\obj\Debug\netcoreapp3.1\AIE_11_NineTimesNine.AssemblyInfoInputs.cache
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_11_NineTimesNine\obj\Debug\netcoreapp3.1\AIE_11_NineTimesNine.AssemblyInfo.cs
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_11_NineTimesNine\obj\Debug\netcoreapp3.1\AIE_11_NineTimesNine.dll
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_11_NineTimesNine\obj\Debug\netcoreapp3.1\AIE_11_NineTimesNine.pdb

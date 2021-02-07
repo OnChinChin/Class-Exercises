@@ -21,3 +21,14 @@ C:\Users\HOMES\OneDrive\Desktop\Class Exer\Class-Exercises\AIE_08_EvenOrOdd\obj\
 C:\Users\HOMES\OneDrive\Desktop\Class Exer\Class-Exercises\AIE_08_EvenOrOdd\obj\Debug\netcoreapp3.1\AIE_08_EvenOrOdd.dll
 C:\Users\HOMES\OneDrive\Desktop\Class Exer\Class-Exercises\AIE_08_EvenOrOdd\obj\Debug\netcoreapp3.1\AIE_08_EvenOrOdd.pdb
 C:\Users\HOMES\OneDrive\Desktop\Class Exer\Class-Exercises\AIE_08_EvenOrOdd\obj\Debug\netcoreapp3.1\AIE_08_EvenOrOdd.genruntimeconfig.cache
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_08_EvenOrOdd\bin\Debug\netcoreapp3.1\AIE_08_EvenOrOdd.exe
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_08_EvenOrOdd\bin\Debug\netcoreapp3.1\AIE_08_EvenOrOdd.deps.json
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_08_EvenOrOdd\bin\Debug\netcoreapp3.1\AIE_08_EvenOrOdd.runtimeconfig.json
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_08_EvenOrOdd\bin\Debug\netcoreapp3.1\AIE_08_EvenOrOdd.runtimeconfig.dev.json
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_08_EvenOrOdd\bin\Debug\netcoreapp3.1\AIE_08_EvenOrOdd.dll
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_08_EvenOrOdd\bin\Debug\netcoreapp3.1\AIE_08_EvenOrOdd.pdb
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_08_EvenOrOdd\obj\Debug\netcoreapp3.1\AIE_08_EvenOrOdd.csprojAssemblyReference.cache
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_08_EvenOrOdd\obj\Debug\netcoreapp3.1\AIE_08_EvenOrOdd.AssemblyInfoInputs.cache
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_08_EvenOrOdd\obj\Debug\netcoreapp3.1\AIE_08_EvenOrOdd.AssemblyInfo.cs
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_08_EvenOrOdd\obj\Debug\netcoreapp3.1\AIE_08_EvenOrOdd.dll
+C:\Users\s210537\Desktop\Git Class\Class-Exercises\AIE_08_EvenOrOdd\obj\Debug\netcoreapp3.1\AIE_08_EvenOrOdd.pdb

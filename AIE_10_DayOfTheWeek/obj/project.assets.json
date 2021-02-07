@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\s210537\\Documents\\ClassExercises\\Class-Exercises\\AIE_10_DayOfTheWeek\\AIE_10_DayOfTheWeek.csproj",
+      "projectUniqueName": "C:\\Users\\s210537\\Desktop\\Git Class\\Class-Exercises\\AIE_10_DayOfTheWeek\\AIE_10_DayOfTheWeek.csproj",
       "projectName": "AIE_10_DayOfTheWeek",
-      "projectPath": "C:\\Users\\s210537\\Documents\\ClassExercises\\Class-Exercises\\AIE_10_DayOfTheWeek\\AIE_10_DayOfTheWeek.csproj",
+      "projectPath": "C:\\Users\\s210537\\Desktop\\Git Class\\Class-Exercises\\AIE_10_DayOfTheWeek\\AIE_10_DayOfTheWeek.csproj",
       "packagesPath": "C:\\Users\\s210537\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s210537\\Documents\\ClassExercises\\Class-Exercises\\AIE_10_DayOfTheWeek\\obj\\",
+      "outputPath": "C:\\Users\\s210537\\Desktop\\Git Class\\Class-Exercises\\AIE_10_DayOfTheWeek\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\s210537\\AppData\\Roaming\\NuGet\\NuGet.Config",

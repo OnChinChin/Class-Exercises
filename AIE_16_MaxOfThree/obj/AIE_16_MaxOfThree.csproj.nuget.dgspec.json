@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s210537\\Documents\\ClassExercises\\Class-Exercises\\AIE_16_MaxOfThree\\AIE_16_MaxOfThree.csproj": {}
+    "C:\\Users\\s210537\\Desktop\\Git Class\\Class-Exercises\\AIE_16_MaxOfThree\\AIE_16_MaxOfThree.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s210537\\Documents\\ClassExercises\\Class-Exercises\\AIE_16_MaxOfThree\\AIE_16_MaxOfThree.csproj": {
+    "C:\\Users\\s210537\\Desktop\\Git Class\\Class-Exercises\\AIE_16_MaxOfThree\\AIE_16_MaxOfThree.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s210537\\Documents\\ClassExercises\\Class-Exercises\\AIE_16_MaxOfThree\\AIE_16_MaxOfThree.csproj",
+        "projectUniqueName": "C:\\Users\\s210537\\Desktop\\Git Class\\Class-Exercises\\AIE_16_MaxOfThree\\AIE_16_MaxOfThree.csproj",
         "projectName": "AIE_16_MaxOfThree",
-        "projectPath": "C:\\Users\\s210537\\Documents\\ClassExercises\\Class-Exercises\\AIE_16_MaxOfThree\\AIE_16_MaxOfThree.csproj",
+        "projectPath": "C:\\Users\\s210537\\Desktop\\Git Class\\Class-Exercises\\AIE_16_MaxOfThree\\AIE_16_MaxOfThree.csproj",
         "packagesPath": "C:\\Users\\s210537\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s210537\\Documents\\ClassExercises\\Class-Exercises\\AIE_16_MaxOfThree\\obj\\",
+        "outputPath": "C:\\Users\\s210537\\Desktop\\Git Class\\Class-Exercises\\AIE_16_MaxOfThree\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s210537\\AppData\\Roaming\\NuGet\\NuGet.Config",
