@@ -22,3 +22,9 @@ C:\Users\HOMES\OneDrive\Desktop\Class Exer\Class-Exercises\AIE_07_MaxOfThreeVari
 C:\Users\HOMES\OneDrive\Desktop\Class Exer\Class-Exercises\AIE_07_MaxOfThreeVariables\obj\Debug\netcoreapp3.1\AIE_07_MaxOfThreeVariables.dll
 C:\Users\HOMES\OneDrive\Desktop\Class Exer\Class-Exercises\AIE_07_MaxOfThreeVariables\obj\Debug\netcoreapp3.1\AIE_07_MaxOfThreeVariables.pdb
 C:\Users\HOMES\OneDrive\Desktop\Class Exer\Class-Exercises\AIE_07_MaxOfThreeVariables\obj\Debug\netcoreapp3.1\AIE_07_MaxOfThreeVariables.genruntimeconfig.cache
+C:\Users\s210537\Documents\ClassExercises\Class-Exercises\AIE_07_MaxOfThreeVariables\bin\Debug\netcoreapp3.1\AIE_07_MaxOfThreeVariables.exe
+C:\Users\s210537\Documents\ClassExercises\Class-Exercises\AIE_07_MaxOfThreeVariables\obj\Debug\netcoreapp3.1\AIE_07_MaxOfThreeVariables.csprojAssemblyReference.cache
+C:\Users\s210537\Documents\ClassExercises\Class-Exercises\AIE_07_MaxOfThreeVariables\obj\Debug\netcoreapp3.1\AIE_07_MaxOfThreeVariables.AssemblyInfoInputs.cache
+C:\Users\s210537\Documents\ClassExercises\Class-Exercises\AIE_07_MaxOfThreeVariables\obj\Debug\netcoreapp3.1\AIE_07_MaxOfThreeVariables.AssemblyInfo.cs
+C:\Users\s210537\Documents\ClassExercises\Class-Exercises\AIE_07_MaxOfThreeVariables\obj\Debug\netcoreapp3.1\AIE_07_MaxOfThreeVariables.dll
+C:\Users\s210537\Documents\ClassExercises\Class-Exercises\AIE_07_MaxOfThreeVariables\obj\Debug\netcoreapp3.1\AIE_07_MaxOfThreeVariables.pdb
