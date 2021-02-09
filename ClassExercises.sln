@@ -41,15 +41,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AIE_18_RaylibPong", "AIE_18
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AIE_19_GetTwoLwngths", "AIE_GetTwoLwngths\AIE_19_GetTwoLwngths.csproj", "{FAD93AC1-D82E-42EB-9584-B054726A072C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIE_20_NeedelInTheHaystack", "AIE_20_NeedelInTheHaystack\AIE_20_NeedelInTheHaystack.csproj", "{DF77A3B7-C058-4CFC-8950-B6138CB46E40}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AIE_20_NeedelInTheHaystack", "AIE_20_NeedelInTheHaystack\AIE_20_NeedelInTheHaystack.csproj", "{DF77A3B7-C058-4CFC-8950-B6138CB46E40}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Random", "Random\Random.csproj", "{64345134-5937-43EE-80B1-C1357586A90E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Random", "Random\Random.csproj", "{64345134-5937-43EE-80B1-C1357586A90E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIE_21_CalculateAverage", "AIE_21_CalculateAverage\AIE_21_CalculateAverage.csproj", "{24CE0E55-7B29-49FA-99F0-374D13DB1674}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AIE_21_CalculateAverage", "AIE_21_CalculateAverage\AIE_21_CalculateAverage.csproj", "{24CE0E55-7B29-49FA-99F0-374D13DB1674}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIE_22_ReverseArray", "AIE_22_ReverseArray\AIE_22_ReverseArray.csproj", "{FD72DF11-38EC-4269-834F-1E9131D7CC1F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AIE_22_ReverseArray", "AIE_22_ReverseArray\AIE_22_ReverseArray.csproj", "{FD72DF11-38EC-4269-834F-1E9131D7CC1F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ALE_23_InsertNextTo", "ConsoleApp1\ALE_23_InsertNextTo.csproj", "{2A4BA5A3-546A-47D8-907E-11E4C0F659E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ALE_23_InsertNextTo", "ConsoleApp1\ALE_23_InsertNextTo.csproj", "{2A4BA5A3-546A-47D8-907E-11E4C0F659E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIE_AsteroidsGame", "AIE_AsteroidsGame\AIE_AsteroidsGame.csproj", "{1E2D31B4-3288-4254-831E-76822A29EAE7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +155,10 @@ Global
 		{2A4BA5A3-546A-47D8-907E-11E4C0F659E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A4BA5A3-546A-47D8-907E-11E4C0F659E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A4BA5A3-546A-47D8-907E-11E4C0F659E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E2D31B4-3288-4254-831E-76822A29EAE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E2D31B4-3288-4254-831E-76822A29EAE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E2D31B4-3288-4254-831E-76822A29EAE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E2D31B4-3288-4254-831E-76822A29EAE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
