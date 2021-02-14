@@ -94,7 +94,15 @@ namespace AIE_AsteroidsGame
                 {
                      asteroids[i].Update();
                 }
+            }
 
+            // cheack all bullets against all asteriods
+            foreach(var bullet in bullets)
+            {
+                foreach(var asteroid in asteroids)
+                {
+                    DoBulletAsteroidCollision(bullet, asteroid);
+                }
             }
         }
 
@@ -146,23 +154,27 @@ namespace AIE_AsteroidsGame
             Random rand = new Random();
             int side = rand.Next(0, 4);
 
-            Vector2 dir = new Vector2();
+            float rot = (float)rand.NextDouble() * MathF.PI * 2.0f;
+            Vector2 dir = new Vector2(MathF.Cos(rot), MathF.Sin(rot));
+
+            float radius = 40;
 
             //left wall spawn
-            if (side == 0) SpawnAsteroid(new Vector2(0, rand.Next(0, WindowHeight)), dir);
+            if (side == 0) SpawnAsteroid(new Vector2(0, rand.Next(0, WindowHeight)), dir, radius);
 
             //top wall spawn
-            if (side == 1) SpawnAsteroid(new Vector2(rand.Next(0, WindowWidth), 0), dir);
+            if (side == 1) SpawnAsteroid(new Vector2(rand.Next(0, WindowWidth), 0), dir, radius);
 
             // right wall spawn
-            if (side == 2) SpawnAsteroid(new Vector2(WindowWidth, rand.Next(0, WindowHeight)), dir);
+            if (side == 2) SpawnAsteroid(new Vector2(WindowWidth, rand.Next(0, WindowHeight)), dir, radius);
 
             // bottom wall sapwn
-            if (side == 3) SpawnAsteroid(new Vector2(rand.Next(0, WindowWidth), WindowHeight), dir);
+            if (side == 3) SpawnAsteroid(new Vector2(rand.Next(0, WindowWidth), WindowHeight), dir, radius);
         }
-        public void SpawnAsteroid(Vector2 pos, Vector2 dir)
+        public void SpawnAsteroid(Vector2 pos, Vector2 dir, float radius)
         {
             Asteroid asteroid = new Asteroid(this, pos, dir);
+            asteroid.radius = radius;
             for (int i = 0; i < asteroids.Length; i++)
             {
                 if (asteroids[i] == null)
@@ -171,6 +183,43 @@ namespace AIE_AsteroidsGame
                     break;
                 }
             }
+        }
+
+        void DoBulletAsteroidCollision(Bullet bullet, Asteroid asteroid)
+        {
+            if (bullet == null || asteroid == null)
+                return;
+
+            float distance = (bullet.pos - asteroid.pos).Length();
+            if (distance < asteroid.radius)
+            {
+                if(asteroid.radius > 10)
+                {
+                    SpawnAsteroid(asteroid.pos, asteroid.dir, asteroid.radius / 2);
+                    SpawnAsteroid(asteroid.pos, -asteroid.dir, asteroid.radius / 2);
+                }
+                
+
+                //find the bullet in the array
+                for (int i=0; i<bullets.Length; i++)
+                {
+                    if (bullets[i] == bullet)
+                    {
+                        bullets[i] = null;
+                        break;
+                    }
+                }
+                //find the asteroid in the array
+                for (int i = 0; i < asteroids.Length; i++)
+                {
+                    if (asteroids[i] == asteroid)
+                    {
+                        asteroids[i] = null;
+                        break;
+                    }
+                }
+            }
+
         }
     }
 }
