@@ -51,7 +51,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AIE_22_ReverseArray", "AIE_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ALE_23_InsertNextTo", "ConsoleApp1\ALE_23_InsertNextTo.csproj", "{2A4BA5A3-546A-47D8-907E-11E4C0F659E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIE_AsteroidsGame", "AIE_AsteroidsGame\AIE_AsteroidsGame.csproj", "{1E2D31B4-3288-4254-831E-76822A29EAE7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AIE_AsteroidsGame", "AIE_AsteroidsGame\AIE_AsteroidsGame.csproj", "{1E2D31B4-3288-4254-831E-76822A29EAE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIE_23_Animals", "AIE_23_Animals\AIE_23_Animals.csproj", "{27A2B7C6-A3D2-4485-8F98-80F2B50D36C1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChessGame", "AIE_ChessGame\ChessGame.csproj", "{09A6C0B0-FADB-4B75-90A4-E6DE29C12E83}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -159,6 +163,14 @@ Global
 		{1E2D31B4-3288-4254-831E-76822A29EAE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E2D31B4-3288-4254-831E-76822A29EAE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E2D31B4-3288-4254-831E-76822A29EAE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27A2B7C6-A3D2-4485-8F98-80F2B50D36C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27A2B7C6-A3D2-4485-8F98-80F2B50D36C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27A2B7C6-A3D2-4485-8F98-80F2B50D36C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27A2B7C6-A3D2-4485-8F98-80F2B50D36C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09A6C0B0-FADB-4B75-90A4-E6DE29C12E83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09A6C0B0-FADB-4B75-90A4-E6DE29C12E83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09A6C0B0-FADB-4B75-90A4-E6DE29C12E83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09A6C0B0-FADB-4B75-90A4-E6DE29C12E83}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
