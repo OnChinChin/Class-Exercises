@@ -22,39 +22,39 @@ namespace ChessGame
             // pawn, castle, rook, bishop, queen, king 
 
             //    row, col
-            board[0, 0] = new ChessPieceRook(this, EChessSide.WHITE, 0, 0);
-            board[0, 1] = new ChessPieceKnight(this, EChessSide.WHITE, 0, 1);
-            board[0, 2] = new ChessPieceBishop(this, EChessSide.WHITE, 0, 2);
-            board[0, 3] = new ChessPiecePawn(this, EChessSide.WHITE, 0, 3);
-            board[0, 4] = new ChessPiecePawn(this, EChessSide.WHITE, 0, 4);
-            board[0, 5] = new ChessPiecePawn(this, EChessSide.WHITE, 0, 5);
-            board[0, 6] = new ChessPiecePawn(this, EChessSide.WHITE, 0, 6);
-            board[0, 7] = new ChessPiecePawn(this, EChessSide.WHITE, 0, 7);
-            board[1, 0] = new ChessPiecePawn(this, EChessSide.WHITE, 1, 0);
-            board[1, 1] = new ChessPiecePawn(this, EChessSide.WHITE, 1, 1);
-            board[1, 2] = new ChessPiecePawn(this, EChessSide.WHITE, 1, 2);
-            board[1, 3] = new ChessPiecePawn(this, EChessSide.WHITE, 1, 3);
-            board[1, 4] = new ChessPiecePawn(this, EChessSide.WHITE, 1, 4);
-            board[1, 5] = new ChessPiecePawn(this, EChessSide.WHITE, 1, 5);
-            board[1, 6] = new ChessPiecePawn(this, EChessSide.WHITE, 1, 6);
-            board[1, 7] = new ChessPiecePawn(this, EChessSide.WHITE, 1, 7);
+            board[0, 0] = new ChessPieceRook(this, EChessSide.BLACK, 0, 0);
+            board[0, 1] = new ChessPieceKnight(this, EChessSide.BLACK, 0, 1);
+            board[0, 2] = new ChessPieceBishop(this, EChessSide.BLACK, 0, 2);
+            board[0, 3] = new ChessPieceQueen(this, EChessSide.BLACK, 0, 3);
+            board[0, 4] = new ChessPieceKing(this, EChessSide.BLACK, 0, 4);
+            board[0, 5] = new ChessPieceBishop(this, EChessSide.BLACK, 0, 5);
+            board[0, 6] = new ChessPieceKnight(this, EChessSide.BLACK, 0, 6);
+            board[0, 7] = new ChessPieceRook(this, EChessSide.BLACK, 0, 7);
+            board[1, 0] = new ChessPiecePawn(this, EChessSide.BLACK, 1, 0);
+            board[1, 1] = new ChessPiecePawn(this, EChessSide.BLACK, 1, 1);
+            board[1, 2] = new ChessPiecePawn(this, EChessSide.BLACK, 1, 2);
+            board[1, 3] = new ChessPiecePawn(this, EChessSide.BLACK, 1, 3);
+            board[1, 4] = new ChessPiecePawn(this, EChessSide.BLACK, 1, 4);
+            board[1, 5] = new ChessPiecePawn(this, EChessSide.BLACK, 1, 5);
+            board[1, 6] = new ChessPiecePawn(this, EChessSide.BLACK, 1, 6);
+            board[1, 7] = new ChessPiecePawn(this, EChessSide.BLACK, 1, 7);
 
-            board[6, 0] = new ChessPiecePawn(this, EChessSide.BLACK, 6, 0);
-            board[6, 1] = new ChessPiecePawn(this, EChessSide.BLACK, 6, 1);
-            board[6, 2] = new ChessPiecePawn(this, EChessSide.BLACK, 6, 2);
-            board[6, 3] = new ChessPiecePawn(this, EChessSide.BLACK, 6, 3);
-            board[6, 4] = new ChessPiecePawn(this, EChessSide.BLACK, 6, 4);
-            board[6, 5] = new ChessPiecePawn(this, EChessSide.BLACK, 6, 5);
-            board[6, 6] = new ChessPiecePawn(this, EChessSide.BLACK, 6, 6);
-            board[6, 7] = new ChessPiecePawn(this, EChessSide.BLACK, 6, 7);
-            board[7, 0] = new ChessPiecePawn(this, EChessSide.BLACK, 7, 0);
-            board[7, 1] = new ChessPiecePawn(this, EChessSide.BLACK, 7, 1);
-            board[7, 2] = new ChessPiecePawn(this, EChessSide.BLACK, 7, 2);
-            board[7, 3] = new ChessPiecePawn(this, EChessSide.BLACK, 7, 3);
-            board[7, 4] = new ChessPiecePawn(this, EChessSide.BLACK, 7, 4);
-            board[7, 5] = new ChessPiecePawn(this, EChessSide.BLACK, 7, 5);
-            board[7, 6] = new ChessPiecePawn(this, EChessSide.BLACK, 7, 6);
-            board[7, 7] = new ChessPiecePawn(this, EChessSide.BLACK, 7, 7);
+            board[6, 0] = new ChessPiecePawn(this, EChessSide.WHITE, 6, 0);
+            board[6, 1] = new ChessPiecePawn(this, EChessSide.WHITE, 6, 1);
+            board[6, 2] = new ChessPiecePawn(this, EChessSide.WHITE, 6, 2);
+            board[6, 3] = new ChessPiecePawn(this, EChessSide.WHITE, 6, 3);
+            board[6, 4] = new ChessPiecePawn(this, EChessSide.WHITE, 6, 4);
+            board[6, 5] = new ChessPiecePawn(this, EChessSide.WHITE, 6, 5);
+            board[6, 6] = new ChessPiecePawn(this, EChessSide.WHITE, 6, 6);
+            board[6, 7] = new ChessPiecePawn(this, EChessSide.WHITE, 6, 7);
+            board[7, 0] = new ChessPieceRook(this, EChessSide.WHITE, 7, 0);
+            board[7, 1] = new ChessPieceKnight(this, EChessSide.WHITE, 7, 1);
+            board[7, 2] = new ChessPieceBishop(this, EChessSide.WHITE, 7, 2);
+            board[7, 3] = new ChessPieceKing(this, EChessSide.WHITE, 7, 3);
+            board[7, 4] = new ChessPieceQueen(this, EChessSide.WHITE, 7, 4);
+            board[7, 5] = new ChessPieceBishop(this, EChessSide.WHITE, 7, 5);
+            board[7, 6] = new ChessPieceKnight(this, EChessSide.WHITE, 7, 6);
+            board[7, 7] = new ChessPieceRook(this, EChessSide.WHITE, 7, 7);
 
         }
 

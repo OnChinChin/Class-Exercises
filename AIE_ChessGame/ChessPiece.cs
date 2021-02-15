@@ -209,4 +209,76 @@ namespace ChessGame
             return false;
         }
     }
+
+    class ChessPieceKing : ChessPiece
+    {
+        public ChessPieceKing(ChessBoard board, EChessSide side, int row, int col) :
+            base(board, side, Type.KING, row, col)
+        {
+
+        }
+
+        public override bool IsValidMove(int targetRow, int targetCol)
+        {
+
+            var targetPiece = board.GetPiece(targetRow, targetCol);
+            if (targetPiece != null && targetPiece.GetSide() == GetSide())
+                return false;
+
+            if (GetSide() == EChessSide.WHITE)
+            {
+                if (targetCol == GetCol())
+                {
+                    if (GetRow() + 1 == targetRow)
+                        return true;
+                }
+            }
+            else
+            {
+                if (targetCol == GetCol())
+                {
+                    if (GetRow() - 1 == targetRow)
+                        return true;
+                }
+            }
+
+            return false;
+        }
+    }
+
+    class ChessPieceQueen : ChessPiece
+    {
+        public ChessPieceQueen(ChessBoard board, EChessSide side, int row, int col) :
+            base(board, side, Type.QUEEN, row, col)
+        {
+
+        }
+
+        public override bool IsValidMove(int targetRow, int targetCol)
+        {
+
+            var targetPiece = board.GetPiece(targetRow, targetCol);
+            if (targetPiece != null && targetPiece.GetSide() == GetSide())
+                return false;
+
+            if (GetSide() == EChessSide.WHITE)
+            {
+                if (targetCol == GetCol())
+                {
+                    if (GetRow() + 1 == targetRow)
+                        return true;
+                }
+            }
+            else
+            {
+                if (targetCol == GetCol())
+                {
+                    if (GetRow() - 1 == targetRow)
+                        return true;
+                }
+            }
+
+            return false;
+        }
+    }
 }
