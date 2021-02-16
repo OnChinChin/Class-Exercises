@@ -24,18 +24,18 @@ namespace ChessGame
 
             // because we only have 1 texture,
             // here im defining the src area for each of the sprites on the loaded texture.
-            chessPieceSrcRects[EChessSide.WHITE][ChessPiece.Type.PAWN] = new Rectangle(5 * spriteW, 0 * spriteH, spriteW, spriteH);
-            chessPieceSrcRects[EChessSide.BLACK][ChessPiece.Type.PAWN] = new Rectangle(5 * spriteW, 1 * spriteH, spriteW, spriteH);
-            chessPieceSrcRects[EChessSide.WHITE][ChessPiece.Type.ROOK] = new Rectangle(4 * spriteW, 0 * spriteH, spriteW, spriteH);
-            chessPieceSrcRects[EChessSide.BLACK][ChessPiece.Type.ROOK] = new Rectangle(4 * spriteW, 1 * spriteH, spriteW, spriteH);
-            chessPieceSrcRects[EChessSide.WHITE][ChessPiece.Type.KNIGHT] = new Rectangle(3 * spriteW, 0 * spriteH, spriteW, spriteH);
-            chessPieceSrcRects[EChessSide.BLACK][ChessPiece.Type.KNIGHT] = new Rectangle(3 * spriteW, 1 * spriteH, spriteW, spriteH);
-            chessPieceSrcRects[EChessSide.WHITE][ChessPiece.Type.BISHOP] = new Rectangle(2 * spriteW, 0 * spriteH, spriteW, spriteH);
-            chessPieceSrcRects[EChessSide.BLACK][ChessPiece.Type.BISHOP] = new Rectangle(2 * spriteW, 1 * spriteH, spriteW, spriteH);
-            chessPieceSrcRects[EChessSide.WHITE][ChessPiece.Type.KING] = new Rectangle(1 * spriteW, 0 * spriteH, spriteW, spriteH);
-            chessPieceSrcRects[EChessSide.BLACK][ChessPiece.Type.KING] = new Rectangle(1 * spriteW, 1 * spriteH, spriteW, spriteH);
-            chessPieceSrcRects[EChessSide.WHITE][ChessPiece.Type.QUEEN] = new Rectangle(0 * spriteW, 0 * spriteH, spriteW, spriteH);
-            chessPieceSrcRects[EChessSide.BLACK][ChessPiece.Type.QUEEN] = new Rectangle(0 * spriteW, 1 * spriteH, spriteW, spriteH);
+            chessPieceSrcRects[EChessSide.BLACK][ChessPiece.Type.PAWN] = new Rectangle(5 * spriteW, 0 * spriteH, spriteW, spriteH);
+            chessPieceSrcRects[EChessSide.WHITE][ChessPiece.Type.PAWN] = new Rectangle(5 * spriteW, 1 * spriteH, spriteW, spriteH);
+            chessPieceSrcRects[EChessSide.BLACK][ChessPiece.Type.ROOK] = new Rectangle(4 * spriteW, 0 * spriteH, spriteW, spriteH);
+            chessPieceSrcRects[EChessSide.WHITE][ChessPiece.Type.ROOK] = new Rectangle(4 * spriteW, 1 * spriteH, spriteW, spriteH);
+            chessPieceSrcRects[EChessSide.BLACK][ChessPiece.Type.KNIGHT] = new Rectangle(3 * spriteW, 0 * spriteH, spriteW, spriteH);
+            chessPieceSrcRects[EChessSide.WHITE][ChessPiece.Type.KNIGHT] = new Rectangle(3 * spriteW, 1 * spriteH, spriteW, spriteH);
+            chessPieceSrcRects[EChessSide.BLACK][ChessPiece.Type.BISHOP] = new Rectangle(2 * spriteW, 0 * spriteH, spriteW, spriteH);
+            chessPieceSrcRects[EChessSide.WHITE][ChessPiece.Type.BISHOP] = new Rectangle(2 * spriteW, 1 * spriteH, spriteW, spriteH);
+            chessPieceSrcRects[EChessSide.BLACK][ChessPiece.Type.KING] = new Rectangle(1 * spriteW, 0 * spriteH, spriteW, spriteH);
+            chessPieceSrcRects[EChessSide.WHITE][ChessPiece.Type.KING] = new Rectangle(1 * spriteW, 1 * spriteH, spriteW, spriteH);
+            chessPieceSrcRects[EChessSide.BLACK][ChessPiece.Type.QUEEN] = new Rectangle(0 * spriteW, 0 * spriteH, spriteW, spriteH);
+            chessPieceSrcRects[EChessSide.WHITE][ChessPiece.Type.QUEEN] = new Rectangle(0 * spriteW, 1 * spriteH, spriteW, spriteH);
 
 
             
