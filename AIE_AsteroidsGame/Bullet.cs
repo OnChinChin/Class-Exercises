@@ -26,10 +26,10 @@ namespace AIE_AsteroidsGame
             pos += dir * speed;
 
             //wrap bullets around screan 
-            if (pos.X < 0) pos.X = program.WindowWidth;
-            if (pos.X > program.WindowWidth) pos.X = 0;
-            if (pos.Y < 0) pos.Y = program.WindowHeight;
-            if (pos.Y > program.WindowHeight) pos.Y = 0;
+            //if (pos.X < 0) pos.X = program.WindowWidth;
+            //if (pos.X > program.WindowWidth) pos.X = 0;
+            //if (pos.Y < 0) pos.Y = program.WindowHeight;
+            //if (pos.Y > program.WindowHeight) pos.Y = 0;
         }
         public void Draw()
         {

@@ -6,12 +6,12 @@ namespace AIE_AsteroidsGame
 {
     class Program
     {
-        public int WindowWidth = 1600;
-        public int WindowHeight = 1000;
+        public int WindowWidth = 800;
+        public int WindowHeight = 450;
         public string WindowTitle = "Asteroids Game";
 
         Player player;
-        Bullet[] bullets = new Bullet[100000];
+        Bullet[] bullets = new Bullet[100];
         Asteroid[] asteroids = new Asteroid[100];
 
         float asteroidSpawnCoolDown = 4.0f;

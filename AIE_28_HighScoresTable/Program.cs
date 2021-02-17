@@ -1,57 +1,85 @@
 ﻿using System;
 using System.Collections;
+using System.Collections.Generic;
 using System.IO;
 
 namespace AIE_28_HighScoresTable
 {
+    class ScoreEntry
+    {
+        public string name;
+        public int score;
+
+        public ScoreEntry(string name, int score)
+        {
+            this.name = name;
+            this.score = score;
+        }
+    }
+
     class Program
     {
         static void Main(string[] args)
         {
-            List<Contact> contacts = new List<Contact>();
-            contacts.Add(new Contact("bob", "bob@email.com", "12345678"));
-            contacts.Add(new Contact("fred", "fred@email.com", "12345678"));
-            contacts.Add(new Contact("ted", "", "12345678"));
+            List<ScoreEntry> scores = new List<ScoreEntry>()
+            {
+                new ScoreEntry("bob", 12),
+                new ScoreEntry("fred", 20),
+                new ScoreEntry("ted", 6),
+                new ScoreEntry("tom", 42),
+                new ScoreEntry("harry", 9),
+            };
 
-            // save to file
-            SerialiseContactList("contacts.txt", contacts);
+            // save the scores
+            SerialiseScores("highscores.txt", scores);
 
-            // clear them out
-            contacts = new List<Contact>();
+            // clear the scores
+            scores = new List<ScoreEntry>();
 
-            // read from file
-            DeSerialiseContactList("contacts.txt", contacts);
+            // read the scores
+            DeSerialiseScoreos("highscores.txt", scores);
+
+            // print scores
+            foreach (var entry in scores)
+            {
+                Console.WriteLine($"{entry.name}:{entry.score}");
+            }
 
         }
 
-        static void SerialiseContactList(string filename, List<Contact> contacts)
+        static void SerialiseScores(string filename, List<ScoreEntry> scores)
         {
-            // TODO save all contacts to file.
-            if (!File.Exists(filename) || File.Exists(filename))
+            // TODO: write code to write the scores to file
+            FileInfo fileInfo = new FileInfo(filename);
+            Directory.CreateDirectory(fileInfo.Directory.FullName);
+
+            using (StreamWriter sw = File.CreateText(filename))
             {
-                using (StreamWriter sw = File.CreateText(filename))
+                foreach(var entry in scores)
                 {
-                    for (int i = 0; i < contacts.Count; i++)
-                    {
-                        sw.WriteLine("Name: " + contacts[i].name);
-                        sw.WriteLine("Email: " + contacts[i].email);
-                        sw.WriteLine("Phone: " + contacts[i].phone);
-                        sw.WriteLine(" ");
-                    }
+                    sw.WriteLine($"{entry.name} {entry.score}");
                 }
             }
+
+
         }
 
-        static void DeSerialiseContactList(string filename, List<Contact> contacts)
+        static void DeSerialiseScoreos(string filename, List<ScoreEntry> scores)
         {
-            // TODO load all contacts from file.
-            using (StreamReader sr = File.OpenText(filename))
+            using(StreamReader sr = File.OpenText(filename))
             {
-                string s;
-                while ((s = sr.ReadLine()) != null)
+                string line;
+                while((line = sr.ReadLine()) != null)
                 {
-                    Console.WriteLine(s);
+                    var lineItems = line.Split(" ");
+                    string name = lineItems[0];
+                    int.TryParse(lineItems[1], out int score);
+
+                    var entry = new ScoreEntry(name, score);
+                    scores.Add(entry);
+
                 }
             }
         }
     }
+}
