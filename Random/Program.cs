@@ -7,7 +7,9 @@ namespace Random
 
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
+            Console.Write("Enter You Height: ");
+            string height = Console.ReadLine();
+            Console.WriteLine("Your Height is " + height);
         }
 
 
