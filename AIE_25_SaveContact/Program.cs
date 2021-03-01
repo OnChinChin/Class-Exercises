@@ -11,9 +11,9 @@ namespace AIE_25_SaveContact
             Contact person3 = new Contact("ted", "ted@email.com", "12345678");
 
             // write each contact to file
-            person1.Serialise("./bob.txt");
-            person2.Serialise("./fred.txt");
-            person3.Serialise("./ted.txt");
+            person1.Serialise("./contacts/bob.txt");
+            person2.Serialise("./contacts/fred.txt");
+            person3.Serialise("./contacts/ted.txt");
 
 
             // lets clear out the "contact" and load it back in from file
@@ -21,9 +21,9 @@ namespace AIE_25_SaveContact
             person2 = new Contact();
             person3 = new Contact();
 
-            person1.DeSerialise("./bob.txt");
-            person2.DeSerialise("./fred.txt");
-            person3.DeSerialise("./ted.txt");
+            person1.DeSerialise("./contacts/bob.txt");
+            person2.DeSerialise("./contacts/fred.txt");
+            person3.DeSerialise("./contacts/ted.txt");
 
             person1.Print();
             person2.Print();

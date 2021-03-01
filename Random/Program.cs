@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 
 namespace Random
 {
@@ -7,9 +8,15 @@ namespace Random
 
         static void Main(string[] args)
         {
-            Console.Write("Enter You Height: ");
-            string height = Console.ReadLine();
-            Console.WriteLine("Your Height is " + height);
+            {
+                string writeText = "Hello World";
+                File.WriteAllText("test.txt", writeText);
+
+                string readText = File.ReadAllText("test.txt");
+                Console.WriteLine(readText);
+                
+                
+            }
         }
 
 

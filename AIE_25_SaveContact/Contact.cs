@@ -30,6 +30,8 @@ namespace AIE_25_SaveContact
 
             // Create a file to write to.
             var fileInfo = new FileInfo(filename);
+            Directory.CreateDirectory(fileInfo.Directory.FullName);
+
             using (StreamWriter sw = File.CreateText(filename))
             {
                 sw.WriteLine(name);
@@ -41,7 +43,7 @@ namespace AIE_25_SaveContact
         }
 
         public void DeSerialise(string filename)
-        {
+        { 
             // TODO: use StreamReader to write the name, email and phone to file
             using (StreamReader sr = File.OpenText(filename))
             {
