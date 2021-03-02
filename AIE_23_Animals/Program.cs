@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections;
+using System.Collections.Generic;
 
 namespace AIE_23_Animals
 {
@@ -58,7 +59,7 @@ namespace AIE_23_Animals
             }
             public override void MakeNoise()
             {
-                Console.WriteLine("meow meow meow");
+                Console.WriteLine(name + "meow meow meow");
                 //base.makenoise(); // calls the animal.makenoise method
             }
         }
@@ -87,14 +88,14 @@ namespace AIE_23_Animals
         static void Main(string[] args)
         {
 
-            List<Animal> animals = new List<Animal>();
-            animals.Add(new Dog());
-            animals.Add(new Cat());
-            animals.Add(new Dog());
-            animals.Add(new Bird());
+            //List<Animal> animals = new List<Animal>();
+            //animals.Add(new Dog());
+            //animals.Add(new Cat());
+            //animals.Add(new Dog());
+            //animals.Add(new Bird());
 
-            foreach (var a in animals)
-                a.MakeNoise();
+            //foreach (var a in animals)
+            //    a.MakeNoise();
 
 
             Animal dog = new Dog();
